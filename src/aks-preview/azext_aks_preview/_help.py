@@ -664,8 +664,6 @@ helps['aks kanalyze'] = """
     short-summary: Display diagnostic results for the Kubernetes cluster after kollect is done.
 """
 
-<<<<<<< HEAD
-=======
 helps['aks command'] = """
     type: group
     short-summary: see detail usage in 'az aks command invoke', 'az aks command result'.
@@ -692,7 +690,6 @@ helps['aks command result'] = """
           short-summary: commandId returned from 'aks command invoke'.
 """
 
->>>>>>> 488675c7daa4096b4cdce8698ad11aa7c9755726
 helps['aks maintenanceconfiguration'] = """
     type: group
     short-summary: Commands to manage maintenance configurations in managed Kubernetes cluster.

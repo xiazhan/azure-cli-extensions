@@ -2,11 +2,6 @@
 
 Release History
 ===============
-<<<<<<< HEAD
-0.5.4
-+++++
-* Add operations of maintenance configuration
-=======
 =======
 0.5.19
 +++++
@@ -79,7 +74,6 @@ Release History
 0.5.4
 +++++
 * Add operations of maintenance configuration
->>>>>>> 488675c7daa4096b4cdce8698ad11aa7c9755726
 
 0.5.3
 +++++

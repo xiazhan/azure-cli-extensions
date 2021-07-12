@@ -884,12 +884,8 @@ def aks_maintenanceconfiguration_show(
     cluster_name,
     config_name
 ):
-<<<<<<< HEAD
-    logger.warning('resource_group_name: %s, cluster_name: %s, config_name: %s ', resource_group_name, cluster_name, config_name)
-=======
     logger.warning('resource_group_name: %s, cluster_name: %s, config_name: %s ',
                    resource_group_name, cluster_name, config_name)
->>>>>>> 488675c7daa4096b4cdce8698ad11aa7c9755726
     return client.get(resource_group_name, cluster_name, config_name)
 
 
@@ -900,12 +896,8 @@ def aks_maintenanceconfiguration_delete(
     cluster_name,
     config_name
 ):
-<<<<<<< HEAD
-    logger.warning('resource_group_name: %s, cluster_name: %s, config_name: %s ', resource_group_name, cluster_name, config_name)
-=======
     logger.warning('resource_group_name: %s, cluster_name: %s, config_name: %s ',
                    resource_group_name, cluster_name, config_name)
->>>>>>> 488675c7daa4096b4cdce8698ad11aa7c9755726
     return client.delete(resource_group_name, cluster_name, config_name)
 
 
