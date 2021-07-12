@@ -8,7 +8,11 @@
 from codecs import open as open1
 from setuptools import setup, find_packages
 
+<<<<<<< HEAD
 VERSION = "0.5.4"
+=======
+VERSION = "0.5.22"
+>>>>>>> 488675c7daa4096b4cdce8698ad11aa7c9755726
 CLASSIFIERS = [
     'Development Status :: 4 - Beta',
     'Intended Audience :: Developers',
